@@ -1,0 +1,14 @@
+        h1 {
+            color:peru
+        }
+    
+        h2{
+            background-color: khaki;
+            color: peru
+        }
+        
+        p {
+            color: peru;
+            font-weight: bold;
+            font-size: 18px;
+        }

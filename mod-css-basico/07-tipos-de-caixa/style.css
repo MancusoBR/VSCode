@@ -1,0 +1,7 @@
+p {
+    display: block; 
+    /* block ou inline são dois tipos
+    um irá colocar td em seq
+    e outro em bloco 
+    af */
+}

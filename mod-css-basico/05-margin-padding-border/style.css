@@ -1,0 +1,26 @@
+h1 {
+    margin-left: 20px;
+}
+p {
+    margin-top: 5px;
+    margin-left: 0px;
+    /*border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    TAMBÉM PODE SER DESCRITO EM UMA LINHA APENAS
+    ====================== */
+    border-top: red solid 1px;
+
+
+    /*pode-se escrever o TOP-RIGHT-BOTTOM-LEFT
+    ou seja:
+    margin-top: 20;
+    margin-right: 40;
+    margin-bottom:16;
+    margin-left:0;
+    é a mesma coisa que
+    margin 20px 40px 16px 0px; */
+    padding: 10px 20px;
+    font-style: normal;
+
+}

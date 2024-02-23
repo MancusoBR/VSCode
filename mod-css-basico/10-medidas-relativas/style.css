@@ -1,0 +1,17 @@
+html {
+    background-color: lightgray;
+    width: 50%;
+}
+
+body {
+    background-color: darkgray;
+    width: 50%;
+}
+
+.pai {
+    background-color: aquamarine;
+    width: 50%;
+}
+.filha {
+    background-color:blue;
+}
